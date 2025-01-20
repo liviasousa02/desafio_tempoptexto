@@ -125,7 +125,7 @@ app.layout = html.Div(
                 className="accordions"
             )
         ], className="details")
-        ]),
+        ])
 
 
 
