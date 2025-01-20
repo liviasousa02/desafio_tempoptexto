@@ -164,6 +164,4 @@ def update_graph(button, n):
             
     return frase_final
 
-# Execução do servidor
-if __name__ == "__main__":
-    app.run_server(debug=True)
+server = app.server
